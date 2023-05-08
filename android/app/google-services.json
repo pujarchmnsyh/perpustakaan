@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971939937891",
+    "project_id": "perpustakaan-4529c",
+    "storage_bucket": "perpustakaan-4529c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971939937891:android:c5d8bc086d77b92f4d4256",
+        "android_client_info": {
+          "package_name": "com.example.perpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971939937891-gccmlk8vmk1qo497l0agulvtvjn02udf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKItmOkxJurDMkj7pvGc3rgkYWxc0Canw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971939937891-gccmlk8vmk1qo497l0agulvtvjn02udf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
